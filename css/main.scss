@@ -11,6 +11,12 @@ $boardgame_color: #FFD48E;
 $programming_color: #23519B;
 $black: #000000;
 
+.chip {
+  padding: 2px 5px;
+  border-radius: 10px;
+  background-color: $white_transparency;
+}
+
 header {
   .mdl-layout-title {
     font-family: 'Noto Sans Japanese', sans-serif;
@@ -28,11 +34,6 @@ header {
     text-shadow: 1px 1px 1px $black;
   }
 
-  .chip {
-    padding: 2px 5px;
-    border-radius: 10px;
-    background-color: $white_transparency;
-  }
 
   .info-body {
     padding: 10px;
@@ -55,8 +56,12 @@ header {
 
 
 .programming {
-  color: #FFFFFF;
+  color: $white;
   background-color: $programming_color;
+
+  a {
+    color: $white;
+  }
 
   .chip {
     color: $programming_color;
@@ -64,11 +69,20 @@ header {
 }
 
 .boardgame {
-  color: #000000;
+  color: $black;
   background-color: $boardgame_color;
 
   .chip {
     color: $black;
+  }
+}
+
+footer {
+  padding: 5px;
+  background-color: #8BC34A;
+
+  div {
+    margin: 5px;
   }
 }
 
