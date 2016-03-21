@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "[千葉市若葉区のプログラミング教室] CoderDojo Wakaba"
+title: "千葉市若葉区のプログラミング教室 CoderDojo Wakaba"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   千葉県千葉市若葉区で開催されている子ども向けの無料プログラミング教室です。
