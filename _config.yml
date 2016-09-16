@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "千葉市若葉区のプログラミング教室 CoderDojo Wakaba (コーダー道場若葉)"
+title: "千葉市若葉区のプログラミング会 CoderDojo Wakaba (コーダー道場若葉)"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  千葉県千葉市若葉区で開催されている子ども向けの無料プログラミング教室です。
+  千葉県千葉市若葉区で開催されている子ども向けの無料プログラミング会です。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://coderdojo-wakaba.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
