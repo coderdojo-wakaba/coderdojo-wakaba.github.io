@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   千葉県千葉市若葉区で開催されている子ども向けの無料プログラミング会です。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://coderdojo-wakaba.github.io" # the base hostname & protocol for your site
+url: "http://wakaba.coderdojo.chiba.jp/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
